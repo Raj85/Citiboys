@@ -1,0 +1,5 @@
+https://github.com/B1aine/kaggle-allstate
+https://www.kaggle.com/c/allstate-purchase-prediction-challenge/forums/t/8218/solution-sharing
+
+http://www.slideshare.net/KaranSarao1/dma-analytic-challenge-2015-final
+https://github.com/justmarkham/kaggle-allstate/blob/master/allstate-presentation.pdf
