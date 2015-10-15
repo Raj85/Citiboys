@@ -1,0 +1,37 @@
+- Average number of merchants per customer each month
+- Average number of merchant visited in each category
+- Ratio of total transactions to the number fo merchants per month
+- Total Transactions per Customer by merchant
+- Merchant ranking by category by quarter for each customer
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic Stats
+------------
+
+Total Customers - 374,326
+Total Merchants - 9,822
+Total Categories- 15
+Total Time - 4 Quarters
+Total records - 18 million obs
+Total # of Transaction - ???
