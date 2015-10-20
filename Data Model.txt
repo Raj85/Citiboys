@@ -1,0 +1,20 @@
+Cust 	Merchant	Quart	   Variables 	Current Quarter Binary 	Next Quarter binary
+C1	M1		 Q1				1			0
+C1	M2		 Q1				1			1
+	.						0
+	.						1
+	.						0
+	Mn		 Q1
+
+
+
+
+C2	M1		Q3				1			0
+C2	M2		Q3				0			1
+
+
+
+
+
+
+C1	M1		Q4				1			0					 			
